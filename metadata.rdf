@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vcard4="http://www.w3.org/2001/vcard-rdf/3.0#">
+    <rdf:Description rdf:about="#meta_iSD1509">
+        <dcterms:creator>
+            <rdf:Bag>
+                <rdf:li rdf:parseType="Resource">
+                    <vcard4:fn><vcard4:text>Sanjeev Dahal</vcard4:text></vcard4:fn>
+                    <vcard4:email>sanjeev.dahal@queensu.ca</vcard4:email>
+                    <vcard4:organization-name>Department of Chemical Engineering, Queen’s University, Kingston, Canada</vcard4:organization-name>
+                </rdf:li>
+            </rdf:Bag>
+        </dcterms:creator>
+        <dcterms:creator>
+            <rdf:Bag>
+                <rdf:li rdf:parseType="Resource">
+                    <vcard4:fn><vcard4:text>Alina Renz</vcard4:text></vcard4:fn>
+                    <vcard4:email>renz@informatik.uni-tuebingen.de</vcard4:email>
+                    <vcard4:organization-name>Computational Systems Biology of Infections and Antimicrobial-Resistant Pathogens, Institute for Bioinformatics and Medical Informatics (IBMI), University of Tübingen, Sand 14, 72076 Tübingen, Germany</vcard4:organization-name>
+                </rdf:li>
+            </rdf:Bag>
+        </dcterms:creator>
+        <dcterms:creator>
+            <rdf:Bag>
+                <rdf:li rdf:parseType="Resource">
+                    <vcard4:fn><vcard4:text>Andreas Dräger</vcard4:text></vcard4:fn>
+                    <vcard4:email>draeger@informatik.uni-tuebingen.de</vcard4:email>
+                    <vcard4:organization-name>Computational Systems Biology of Infections and Antimicrobial-Resistant Pathogens, Institute for Bioinformatics and Medical Informatics (IBMI), University of Tübingen, Sand 14, 72076 Tübingen, Germany</vcard4:organization-name>
+                </rdf:li>
+            </rdf:Bag>
+        </dcterms:creator>
+        <dcterms:creator>
+            <rdf:Bag>
+                <rdf:li rdf:parseType="Resource">
+                    <vcard4:fn><vcard4:text>Laurence Yang</vcard4:text></vcard4:fn>
+                    <vcard4:email>laurence.yang@queensu.ca</vcard4:email>
+                    <vcard4:organization-name>Department of Chemical Engineering, Queen’s University, Kingston, Canada</vcard4:organization-name>
+                </rdf:li>
+            </rdf:Bag>
+        </dcterms:creator>
+        <dcterms:created rdf:parseType="Resource">
+            <dcterms:W3CDTF>2021-07-27T07:35:12Z</dcterms:W3CDTF>
+        </dcterms:created>
+        <dcterms:modified rdf:parseType="Resource">
+            <dcterms:W3CDTF>2021-08-22T16:22:45Z</dcterms:W3CDTF>
+        </dcterms:modified>
+    </rdf:Description>
+</rdf:RDF>
